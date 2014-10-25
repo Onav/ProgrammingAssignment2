@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These two functions create a matrix vector with functions to inverse it and cache
+##      the inverse so that it only needs calculating once.
+## The matrix is assumed to be invertible.
 
 ## Matrix Vector
 ## Creates a List vector w/ functions to:
